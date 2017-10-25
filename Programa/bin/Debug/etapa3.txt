@@ -1,0 +1,199 @@
+<coverage>
+  <name>finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05</name>
+  <nativeName>finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05</nativeName>
+  <namespace>
+    <name>geonode</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/namespaces/geonode.xml" type="application/xml"/>
+  </namespace>
+  <title>finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05</title>
+  <description>Generated from GeoTIFF</description>
+  <abstract>No abstract provided</abstract>
+  <keywords>
+    <string>WCS</string>
+    <string>GeoTIFF</string>
+    <string>finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>other</type>
+      <metadataType>other</metadataType>
+      <content>http://www.idehn.tec.ac.cr/catalogue/csw?outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&amp;service=CSW&amp;request=GetRecordById&amp;version=2.0.2&amp;elementsetname=full&amp;id=f9616212-7e88-11e6-b21a-9cb6547b8aae</content>
+    </metadataLink>
+    <metadataLink>
+      <type>text/xml</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://www.idehn.tec.ac.cr/catalogue/csw?outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2Fcsdgm&amp;service=CSW&amp;request=GetRecordById&amp;version=2.0.2&amp;elementsetname=full&amp;id=f9616212-7e88-11e6-b21a-9cb6547b8aae</content>
+    </metadataLink>
+    <metadataLink>
+      <type>other</type>
+      <metadataType>other</metadataType>
+      <content>http://www.idehn.tec.ac.cr/catalogue/csw?outputschema=urn%3Aoasis%3Anames%3Atc%3Aebxml-regrep%3Axsd%3Arim%3A3.0&amp;service=CSW&amp;request=GetRecordById&amp;version=2.0.2&amp;elementsetname=full&amp;id=f9616212-7e88-11e6-b21a-9cb6547b8aae</content>
+    </metadataLink>
+    <metadataLink>
+      <type>other</type>
+      <metadataType>other</metadataType>
+      <content>http://www.idehn.tec.ac.cr/catalogue/csw?outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2F2.0.2&amp;service=CSW&amp;request=GetRecordById&amp;version=2.0.2&amp;elementsetname=full&amp;id=f9616212-7e88-11e6-b21a-9cb6547b8aae</content>
+    </metadataLink>
+    <metadataLink>
+      <type>other</type>
+      <metadataType>other</metadataType>
+      <content>http://www.idehn.tec.ac.cr/catalogue/csw?outputschema=http%3A%2F%2Fgcmd.gsfc.nasa.gov%2FAboutus%2Fxml%2Fdif%2F&amp;service=CSW&amp;request=GetRecordById&amp;version=2.0.2&amp;elementsetname=full&amp;id=f9616212-7e88-11e6-b21a-9cb6547b8aae</content>
+    </metadataLink>
+    <metadataLink>
+      <type>other</type>
+      <metadataType>other</metadataType>
+      <content>http://www.idehn.tec.ac.cr/catalogue/csw?outputschema=http%3A%2F%2Fwww.w3.org%2F2005%2FAtom&amp;service=CSW&amp;request=GetRecordById&amp;version=2.0.2&amp;elementsetname=full&amp;id=f9616212-7e88-11e6-b21a-9cb6547b8aae</content>
+    </metadataLink>
+  </metadataLinks>
+  <nativeCRS class="projected">PROJCS[&quot;CR05 / CRTM05&quot;, 
+  GEOGCS[&quot;CR05&quot;, 
+    DATUM[&quot;Costa Rica 2005&quot;, 
+      SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], 
+      TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+      AUTHORITY[&quot;EPSG&quot;,&quot;1065&quot;]], 
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+    UNIT[&quot;degree&quot;, 0.017453292519943295], 
+    AXIS[&quot;Geodetic longitude&quot;, EAST], 
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;5365&quot;]], 
+  PROJECTION[&quot;Transverse_Mercator&quot;], 
+  PARAMETER[&quot;central_meridian&quot;, -84.0], 
+  PARAMETER[&quot;latitude_of_origin&quot;, 0.0], 
+  PARAMETER[&quot;scale_factor&quot;, 0.9999], 
+  PARAMETER[&quot;false_easting&quot;, 500000.0], 
+  PARAMETER[&quot;false_northing&quot;, 0.0], 
+  UNIT[&quot;m&quot;, 1.0], 
+  AXIS[&quot;Easting&quot;, EAST], 
+  AXIS[&quot;Northing&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;5367&quot;]]</nativeCRS>
+  <srs>EPSG:5367</srs>
+  <nativeBoundingBox>
+    <minx>534271.7662850125</minx>
+    <maxx>534907.995008049</maxx>
+    <miny>1135906.72502382</miny>
+    <maxy>1136185.0690740668</maxy>
+    <crs class="projected">EPSG:5367</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-83.68711960465701</minx>
+    <maxx>-83.68130876386785</maxx>
+    <miny>10.272566132259305</miny>
+    <maxy>10.275088454799151</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
+  DATUM[&quot;WGS84&quot;, 
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>REPROJECT_TO_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <advertised>true</advertised>
+  <metadata>
+    <entry key="dirName">finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05_finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05</entry>
+  </metadata>
+  <store class="coverageStore">
+    <name>geonode:finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/workspaces/geonode/coveragestores/finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05.xml" type="application/xml"/>
+  </store>
+  <nativeFormat>GeoTIFF</nativeFormat>
+  <grid dimension="2">
+    <range>
+      <low>0 0</low>
+      <high>19829 8675</high>
+    </range>
+    <transform>
+      <scaleX>0.032085769480882605</scaleX>
+      <scaleY>-0.032085769480882605</scaleY>
+      <shearX>0.0</shearX>
+      <shearY>0.0</shearY>
+      <translateX>534271.7823278973</translateX>
+      <translateY>1136185.0530311821</translateY>
+    </transform>
+    <crs>EPSG:5367</crs>
+  </grid>
+  <supportedFormats>
+    <string>GEOTIFF</string>
+    <string>GeoPackage (mosaic)</string>
+    <string>Gtopo30</string>
+    <string>GIF</string>
+    <string>PNG</string>
+    <string>JPEG</string>
+    <string>TIFF</string>
+    <string>ArcGrid</string>
+    <string>ImageMosaic</string>
+  </supportedFormats>
+  <interpolationMethods>
+    <string>nearest neighbor</string>
+    <string>bilinear</string>
+    <string>bicubic</string>
+  </interpolationMethods>
+  <defaultInterpolationMethod>nearest neighbor</defaultInterpolationMethod>
+  <dimensions>
+    <coverageDimension>
+      <name>RED_BAND</name>
+      <description>GridSampleDimension[-10000.0,-10000.0]</description>
+      <range>
+        <min>-10000.0</min>
+        <max>-10000.0</max>
+      </range>
+      <unit>W.m-2.Sr-1</unit>
+      <dimensionType>
+        <name>UNSIGNED_8BITS</name>
+      </dimensionType>
+    </coverageDimension>
+    <coverageDimension>
+      <name>GREEN_BAND</name>
+      <description>GridSampleDimension[-10000.0,-10000.0]</description>
+      <range>
+        <min>-10000.0</min>
+        <max>-10000.0</max>
+      </range>
+      <unit>W.m-2.Sr-1</unit>
+      <dimensionType>
+        <name>UNSIGNED_8BITS</name>
+      </dimensionType>
+    </coverageDimension>
+    <coverageDimension>
+      <name>BLUE_BAND</name>
+      <description>GridSampleDimension[-10000.0,-10000.0]</description>
+      <range>
+        <min>-10000.0</min>
+        <max>-10000.0</max>
+      </range>
+      <unit>W.m-2.Sr-1</unit>
+      <dimensionType>
+        <name>UNSIGNED_8BITS</name>
+      </dimensionType>
+    </coverageDimension>
+    <coverageDimension>
+      <name>ALPHA_BAND</name>
+      <description>GridSampleDimension[-10000.0,-10000.0]</description>
+      <range>
+        <min>-10000.0</min>
+        <max>-10000.0</max>
+      </range>
+      <dimensionType>
+        <name>UNSIGNED_8BITS</name>
+      </dimensionType>
+    </coverageDimension>
+  </dimensions>
+  <requestSRS>
+    <string>EPSG:5367</string>
+  </requestSRS>
+  <responseSRS>
+    <string>EPSG:5367</string>
+  </responseSRS>
+  <parameters>
+    <entry>
+      <string>InputTransparentColor</string>
+      <string></string>
+    </entry>
+    <entry>
+      <string>SUGGESTED_TILE_SIZE</string>
+      <string>512,512</string>
+    </entry>
+  </parameters>
+  <nativeCoverageName>finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05</nativeCoverageName>
+</coverage>

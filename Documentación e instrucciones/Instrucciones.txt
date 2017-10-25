@@ -1,0 +1,26 @@
+   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *
+   *   				INSTRUCCIONES 				   *
+   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *
+
+>>   1. entrar a Programa/bin/Debug/
+
+   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *
+   *				EJECUCION				   *
+   *	dentro de la ejecucion de la aplicacion todo es muy intuitivo	   *
+   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *
+	 ____________________
+>>   2. | MODOS DE EJECUCIÓN |
+	 --------------------
+>>       2.1 ELEGIR QUE CAPAS DE INFORMACIÓN DESEA GUARDAR
+	     2.1.1 Escribir ./proyecto1 para que el programa le pida cuales capas de información desea eliminar de la lista a guardar
+	     2.1.2 Ingresa los elementos que no desea guardar y cada vez que elimina un elemento el programa le despliega DOS OPCIONES
+	         >> 1. SI: continua eliminando elementos de la lista
+		 >> 2. NO: lo envia a un menu donde le despliega DOS OPCIONES
+		     >> -p: muestra todas las opciones que se quizo guardar de la lista
+		     >> sx: para terminar de la ejecucion del programa
+
+>>       2.2 GUARDAR TODAS LAS CAPAS DE INFORMACIÓN
+	     2.2.1 Escribir ./proyecto1 -f para que el programa guarde TODAS las capas de información que hay
+	     2.2.2 El programa se ejecuta y guarda todas las capas dentro del archivo data.txt y luego le despliega DOS OPCIONES
+	         >> -p: muestra todas las opciones que se desearon guardar de la lista
+		 >> sx: para terminar de la ejecucion del programa

@@ -1,0 +1,190 @@
+<layers>
+  <layer>
+    <name>centros_des_turist_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/centros_des_turist_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>establec_salud_guatuso_2010</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/establec_salud_guatuso_2010.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>sismos_rsn_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/sismos_rsn_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>centros_educ_guatuso_2010</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/centros_educ_guatuso_2010.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>geomorfologic2008crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/geomorfologic2008crtm05.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>areaprotsinac2008crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/areaprotsinac2008crtm05.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>cobert05_rhn_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/cobert05_rhn_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>cobert97_rhn_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/cobert97_rhn_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>avalan_rhn_crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/avalan_rhn_crtm05.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>curvas50rhn_crtm05_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/curvas50rhn_crtm05_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>precipit_na_crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/precipit_na_crtm05.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>cuencas_complet_rhn_crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/cuencas_complet_rhn_crtm05.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>capaciduso_rhn_crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/capaciduso_rhn_crtm05.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>red_mono_cooplesca_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/red_mono_cooplesca_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>estac_temp_rhn_crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/estac_temp_rhn_crtm05.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>instituciones_pub_y_munipal</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/instituciones_pub_y_munipal.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>volcanes_rhn_m_1</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/volcanes_rhn_m_1.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>plantashidro_rhn_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/plantashidro_rhn_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>cantones_rhn_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/cantones_rhn_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>ent_finacieras_guat2010</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/ent_finacieras_guat2010.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>red_trif_cooplesca_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/red_trif_cooplesca_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>zvida_na_crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/zvida_na_crtm05.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>cerros_rhn_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/cerros_rhn_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>cuerpos_agua_crtm05_v2</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/cuerpos_agua_crtm05_v2.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>estprecipit_rhn_crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/estprecipit_rhn_crtm05.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>cruzroja_guat_2010</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/cruzroja_guat_2010.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>bancos_rhn_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/bancos_rhn_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>corredorbiol_sinac_crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/corredorbiol_sinac_crtm05.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>calles_rhn_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/calles_rhn_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>aerodromo</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/aerodromo.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>suelos2008crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/suelos2008crtm05.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>mesecos</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/mesecos.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>puente_pasoalcantar_guat_10</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/puente_pasoalcantar_guat_10.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>poblados_rhn_geo</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/poblados_rhn_geo.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>inund_rhn_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/inund_rhn_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>geologia_rhn_crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/geologia_rhn_crtm05.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>distritos_rhn_wgs84</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/distritos_rhn_wgs84.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>fallas_rhn_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/fallas_rhn_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>infra_comunal_guatuso_2010_1</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/infra_comunal_guatuso_2010_1.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>erupcion_volc_rhn_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/erupcion_volc_rhn_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>brillosol_rhn_crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/brillosol_rhn_crtm05.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>sismos_ovsicori_rhn_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/sismos_ovsicori_rhn_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>giras4326</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/giras4326.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>rios_rhn_geo</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/rios_rhn_geo.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>humedales_rhn</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/humedales_rhn.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>cambcobert9700_rhn_m</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/cambcobert9700_rhn_m.xml" type="application/xml"/>
+  </layer>
+  <layer>
+    <name>finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/layers/finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05.xml" type="application/xml"/>
+  </layer>
+</layers>

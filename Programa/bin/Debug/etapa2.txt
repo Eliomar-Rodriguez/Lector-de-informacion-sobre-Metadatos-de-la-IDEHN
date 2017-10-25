@@ -1,0 +1,19 @@
+<layer>
+  <name>finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05</name>
+  <type>RASTER</type>
+  <defaultStyle>
+    <name>finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/styles/finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05.xml" type="application/xml"/>
+  </defaultStyle>
+  <resource class="coverage">
+    <name>finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05</name>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" href="http://www.idehn.tec.ac.cr/geoserver/rest/workspaces/geonode/coveragestores/finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05/coverages/finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05.xml" type="application/xml"/>
+  </resource>
+  <queryable>true</queryable>
+  <opaque>false</opaque>
+  <attribution>
+    <title>lviquez</title>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

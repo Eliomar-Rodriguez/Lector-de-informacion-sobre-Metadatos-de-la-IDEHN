@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1505162930 source:/home/eliomar/Documentos/Lenguajes/proyecto1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<curl/curl.h>
+
+1505521612 source:/home/eliomar/Documentos/Lenguajes/Lenguajes.EliomarRodriguez.Progra1/Programa/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<curl/curl.h>
+
+1506368936 source:/media/eliomar/824A57E44A57D38F/Users/anton/Desktop/Lenguajes.EliomarRodriguez.Progra1-Progra2/Primer Progra/Programa/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<curl/curl.h>
+

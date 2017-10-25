@@ -1,0 +1,137 @@
+
+47. finca_solano_dole_multiespectral_tec_transparent_mosaic_rgb_crtm05
+	Descripción: No abstract provided
+46. Mapa de cambio de cobertura forestal 1997-2000
+	Descripción: Mapa de cambio de cobertura forestal 1997-2000
+
+45. Humedales Región Huetar Norte
+	Descripción: Humedales Región Huetar Norte
+
+44. Ríos Región Huetar Norte Costa Rica
+	Descripción: Ríos Región Huetar Norte Costa Rica
+
+43. giras4326
+	Descripción: No abstract provided
+42. Sismos OVSICORI
+	Descripción: Sismos OVSICORI
+
+41. Horas de brillo solar Región Huetar Norte
+	Descripción: Horas de brillo solar Región Huetar Norte
+
+40. Amenaza potencial de erupciones volcánicas Región Huetar Norte
+	Descripción: Capa temática que muestra las zonas con amenaza potencial por erupción volcánica.
+
+39. Infraestructura comunal del cantón de Guatuso
+	Descripción: Infraestructura comunal del cantón de Guatuso
+
+38. Fallas geológicas
+	Descripción: Sismos OVSICORI
+
+37. Distritos Región Huetar Norte Costa Rica
+	Descripción: Distritos Región Huetar Norte Costa Rica
+
+36. Unidades geológicas Región Huetar Norte
+	Descripción: Unidades geológicas Región Huetar Norte
+
+35. Amenaza potencial de inundaciones
+	Descripción: Capa temática que muestra las zonas potencialmente inundables en la Región Huetar Norte.
+
+34. Poblados Región Huetar Norte Costa Rica
+	Descripción: Poblados Región Huetar Norte Costa Rica
+
+33. Puentes del cantón de Guatuso
+	Descripción: Puentes del cantón de Guatuso
+
+32. Meses secos Región Huetar Norte
+	Descripción: Meses secos Región Huetar Norte
+
+31. Mapa de Suelos de Costa Rica
+	Descripción: Capa temática que muestra los diferentes tipos de suelo presentes en la Región Huetar Norte, según clasificación de la FAO (Organización de la Naciones Unidas para la Agricultura y la Alimentación).
+
+30. Aeródromo Guatuso
+	Descripción: Aeródromo Guatuso
+
+29. Red vial Región Huetar Norte Costa Rica
+	Descripción: Red vial (línea centro) de los principales caminos de la región fronteriza norte de Costa Rica
+
+28. Corredores biológicos Región Huetar Norte
+	Descripción: Corredores biológicos Región Huetar Norte
+
+27. Bancos
+	Descripción: Bancos
+
+26. Comité de Cruz Roja Guatuso
+	Descripción: Comité de Cruz Roja Guatuso
+
+25. Estaciones de precipitación Región Huetar Norte
+	Descripción: Estaciones de precipitación Región Huetar Norte
+
+24. Cuerpos de agua Región Huetar Norte
+	Descripción: Cuerpos de agua Región Huetar Norte
+
+23. Cerros
+	Descripción: Cerros
+
+22. Zonas de Vida Región Huetar Norte
+	Descripción: Zonas de Vida Región Huetar Norte
+
+21. red_trif_cooplesca_m
+	Descripción: No abstract provided
+20. Entidades financieras de Guatuso
+	Descripción: Entidades financieras de Guatuso
+
+19. Cantones de la Región Huetar Norte
+	Descripción: Cantones Región Huetar Norte
+
+18. Plantas de Generación Eléctrica
+	Descripción: Plantas de Generación Eléctrica
+
+17. Volcanes
+	Descripción: Volcanes
+
+16. Instituciones públicas estatales y municipales de Guatuso
+	Descripción: Instituciones públicas estatales y municipales de Guatuso
+
+15. Estaciones de temperatura Región Huetar Norte
+	Descripción: Estaciones de temperatura Región Huetar Norte
+
+14. Red eléctrica monofásica COOPELESCA 
+	Descripción: No abstract provided
+13. Capacidad de uso del suelo Región Huetar Norte
+	Descripción: Capacidad de uso del suelo Región Huetar Norte
+
+12. Cuencas hidrográficas Región Huetar Norte
+	Descripción: Cuencas hidrográficas Región Huetar Norte
+
+11. Precipitación media anual Región Huetar Norte
+	Descripción: Precipitación media anual Región Huetar Norte
+
+10. Curvas de nivel cada 200 metros
+	Descripción: Curvas de nivel cada 200 m de la Región Huetar Norte
+
+9. Amenaza potencial de avalanchas
+	Descripción: Capa temática que muestra las zonas con amenaza potencial de avalanchas en la Región Huetar Norte.
+
+8. Cobertura forestal 1996/97
+	Descripción: Cobertura forestal 1996/97
+
+7. Cobertura forestal 2005
+	Descripción: Cobertura forestal 2005
+
+6. Areas Silvestres Protegidas de Costa Rica
+	Descripción: Capa temática con la división administrativa del Sistema Nacional de Áreas de Conservación (SINAC).
+
+5. Mapa geomorfológico de Costa Rica
+	Descripción: Mapa geomorfológico de Costa Rica
+
+4. Centros educativos primaria y secundaria Guatuso
+	Descripción: Centros educativos primaria y secundaria Guatuso
+
+3. Sismos Red Sismológica Nacional
+	Descripción: Sismos Red Sismológica Nacional
+
+2. Establecimientos de Salud de Guatuso
+	Descripción: Establecimientos de Salud de Guatuso
+
+1. Centros de Desarrollo Turístico
+	Descripción: Centros de Desarrollo Turístico
