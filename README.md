@@ -1,4 +1,6 @@
 # Lector-de-informacion-sobre-Metadatos-de-la-IDEHN
+Creador:
+- Eliomar Antonio Rodríguez Arguedas
 Extracción de información de un servidor mediante HTTP utilizando REST API.
 
 En este proyecto se hace uso de la librería CURL en el lenguaje C, básicamente lo que se desarrolló en este proyecto, 
